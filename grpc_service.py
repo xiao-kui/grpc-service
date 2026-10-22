@@ -39,7 +39,7 @@ from loguru import logger
 # cerence-ref-uat-eng-usa.prod.na.oc.cerenceapi.com
 # cerence-ref-xuigen1-eng-usa.int.na.oc.cerenceapi.com
 grpc_config = {
-    "cerence_host": "cerence-ref-xuigen1-eng-usa.int.na.oc.cerenceapi.com",
+    "cerence_host": "cerence-ref-uat-eng-usa.prod.na.oc.cerenceapi.com",
     "cerence_port": 443,
     "oauth_token_url": "https://oauth-cerence-ref.prod.na.oc.cerenceapi.com/oauth2/token",
     "oauth_token_fallback_urls": [
